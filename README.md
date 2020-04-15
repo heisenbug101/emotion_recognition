@@ -1,2 +1,13 @@
 # emotion_recognition
-A computer vision based project in python using OpenCV which detects the human face using Haar Cascade classifer and predicts emotions like Happy, Surprise, Sad, etc. using a pre-trained model.
+
+TITLE: Emotion Recognition using OpenCV
+
+LEVEL: Beginner
+
+TECHNOLOGY: Computer Vision, Image Processing
+
+PROGRAMMING LANGUAGE: Python 3.0
+
+TOOLS: OpenCV 4.2.0
+
+OBJECTIVE: Detect a face with help of a webcam (inbuilt - default) using Haar Cascade Algorithm and predict human emotions using a dataset and a pre-existing trained classifier.
